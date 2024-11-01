@@ -13,7 +13,7 @@ O projeto sera voltado para o funcionario onde ele podera
   O projeto tera um Back-end feito e php e um Front-end feito com
   Framework (a decidir ainda)
 
-  Banco de dados - PostgreSql
-  Servidor - Xampp
+  - Banco de dados - PostgreSql
+  - Servidor - Xampp
 
 
