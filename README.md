@@ -14,5 +14,6 @@ O projeto sera voltado para o funcionario onde ele podera
   Framework (a decidir ainda)
 
   Banco de dados - PostgreSql
+  Servidor - Xampp
 
 
